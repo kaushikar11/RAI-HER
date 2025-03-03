@@ -1,0 +1,56 @@
+Description,Number of Generalized True Negatives
+Ideal Values,
+MLP GENDER Mitigation,2501.0
+MLP DIR GENDER Mitigation,2550.0
+MLP Reweighed GENDER Mitigation,2497.0
+MLP AGE Mitigation,2501.0
+MLP DIR AGE Mitigation,2386.0
+MLP Reweighed AGE Mitigation,2491.0
+MLP AGE&GENDER Mitigation,2501.0
+MLP DIR AGE&GENDER Mitigation,2548.0
+MLP Reweighed AGE&GENDER Mitigation,2516.0
+GRU GENDER Mitigation,2564.0
+GRU DIR GENDER Mitigation,2510.0
+GRU Reweighed GENDER Mitigation,2539.0
+GRU AGE Mitigation,2564.0
+GRU DIR AGE Mitigation,2615.0
+GRU Reweighed AGE Mitigation,2596.0
+GRU AGE&GENDER Mitigation,2564.0
+GRU DIR AGE&GENDER Mitigation,2582.0
+GRU Reweighed AGE&GENDER Mitigation,2516.0
+LSTM GENDER Mitigation,2552.0
+LSTM DIR GENDER Mitigation,2577.0
+LSTM Reweighed GENDER Mitigation,2502.0
+LSTM AGE Mitigation,2552.0
+LSTM DIR AGE Mitigation,2528.0
+LSTM Reweighed AGE Mitigation,2495.0
+LSTM AGE&GENDER Mitigation,2552.0
+LSTM DIR AGE&GENDER Mitigation,2441.0
+LSTM Reweighed AGE&GENDER Mitigation,2562.0
+LSTM GENDER Mitigation,2536.0
+RNN DIR GENDER Mitigation,2470.0
+RNN Reweighed GENDER Mitigation,2506.0
+LSTM AGE Mitigation,2536.0
+RNN DIR AGE Mitigation,2508.0
+RNN Reweighed AGE Mitigation,2448.0
+LSTM AGE&GENDER Mitigation,2536.0
+RNN DIR AGE&GENDER Mitigation,2593.0
+RNN Reweighed AGE&GENDER Mitigation,2525.0
+CNN GENDER Mitigation,2323.0
+CNN DIR GENDER Mitigation,2379.0
+CNN Reweighed GENDER Mitigation,2336.0
+CNN AGE Mitigation,2323.0
+CNN DIR AGE Mitigation,2319.0
+CNN Reweighed AGE Mitigation,2362.0
+CNN AGE&GENDER Mitigation,2323.0
+CNN DIR AGE&GENDER Mitigation,2298.0
+CNN Reweighed AGE&GENDER Mitigation,2349.0
+RFC GENDER Mitigation,2323.0
+RFC DIR GENDER Mitigation,2493.0
+RFC Reweighed GENDER Mitigation,2513.0
+RFC AGE Mitigation,2323.0
+RFC DIR AGE Mitigation,2485.0
+RFC Reweighed AGE Mitigation,2530.0
+RFC AGE&GENDER Mitigation,2323.0
+RFC DIR AGE&GENDER Mitigation,2501.0
+RFC Reweighed AGE&GENDER Mitigation,2446.0
